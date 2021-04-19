@@ -12,7 +12,7 @@ export default {
     screens: {
       Root: {
         screens: {
-          TabOne: {
+          /* TabOne: {
             screens: {
               TabOneScreen: 'one',
             },
@@ -21,7 +21,7 @@ export default {
             screens: {
               TabTwoScreen: 'two',
             },
-          },
+          }, */
         },
       },
       NotFound: '*',
